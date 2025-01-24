@@ -1,0 +1,5 @@
+Flask==3.1.0
+cryptography
+pycryptodome==3.18.0
+pyOpenSSL
+bcrypt==4.1.2
